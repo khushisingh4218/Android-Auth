@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "645611906182",
+    "project_id": "parkingsystemauthentication",
+    "storage_bucket": "parkingsystemauthentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645611906182:android:0e4b43f5a5d293c683dd07",
+        "android_client_info": {
+          "package_name": "com.example.newapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcEH6RaoQb6uVdmserCSfAVm183zcD2qA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
